@@ -2,11 +2,14 @@
 Misc. arduino projects and libraries
 
 ### Projects
-RGSLed
+```
+RGBLed
 VariLED
-
+```
 
 ### Libraries
+```
 DHT11
 LiquidCrystal_I2C
 MIDI
+```
